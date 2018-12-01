@@ -7,7 +7,6 @@ category: vape research
 ![](/images/4.jpg)
 
 ## Today On News
-
 A news release by the University of Bath in the united kingdom, said that two latest study from the University's Tobacco Control Examine Group, have gathered evidence indicating that big tobacco corporations stay facilitating tobacco smuggling, whilst carrying out their best to modify the authorities that look for to avoid it.
 
 The studies that have been published in the BMJ journal, Tobacco Control, and supported by grants from Cancer tumor tumor Analysis UK, have indicated that besides the fact that the world's key tobacco companies remain facilitating tobacco smuggling, in addition they make an effort to control the global program that may prevent it, whilst funding analyses that overestimate the levels of such  activities.
