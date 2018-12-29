@@ -2,6 +2,7 @@
 title: Latest CDC Info Indicate That Vaping Costs Are Still Declining
 date: 2018-09-16 09:50:00
 category: vape research
+img: "/images/3.jpg"
 ---
 
 ![](/images/3.jpg)
