@@ -2,6 +2,7 @@
 title: New Research Implies that Big Tobacco Facilitates Tobacco Smuggling
 date: 2018-11-05 12:35:00
 category: vape research
+img: "/images/4.jpg"
 ---
 
 ![](/images/4.jpg)
