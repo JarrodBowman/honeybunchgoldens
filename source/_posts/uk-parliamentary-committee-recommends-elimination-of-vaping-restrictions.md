@@ -2,6 +2,7 @@
 title: UK Parliamentary Committee Recommends Elimination of Vaping Restrictions
 date: 2018-11-23 10:29:00
 category: vape news
+img: "/images/2.jpg"
 ---
 
 ![](/images/2.jpg)
