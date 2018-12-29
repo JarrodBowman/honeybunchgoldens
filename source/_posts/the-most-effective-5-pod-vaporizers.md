@@ -2,6 +2,7 @@
 title: The Most Effective 5 Pod Vaporizers
 date: 2018-10-27 08:11:00
 category: vaporizer top 5
+img: "/images/8.jpg"
 ---
 
 ![](/images/8.jpg)
