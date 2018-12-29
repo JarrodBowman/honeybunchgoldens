@@ -2,6 +2,7 @@
 title: What's The Difference Between Oral cavity to Lung and Direct To Lung Vaping
 date: 2018-10-19 12:35:00
 category: tech support
+img: "/images/5.jpg"
 ---
 
 ![](/images/5.jpg)
