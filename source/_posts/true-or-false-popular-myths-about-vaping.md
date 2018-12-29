@@ -2,6 +2,7 @@
 title: True or False Popular Myths About Vaping
 date: 2018-11-14 14:20:00
 category: tech support
+img: "/images/6.jpg"
 ---
 
 ![](/images/6.jpg)
