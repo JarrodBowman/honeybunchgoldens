@@ -2,6 +2,7 @@
 title: YouTube Is Shutting Straight Down Marijuana Channels
 date: 2018-10-02 08:00:00
 category: vape news
+img: "/images/1.jpg"
 ---
 
 ![](/images/1.jpg)
