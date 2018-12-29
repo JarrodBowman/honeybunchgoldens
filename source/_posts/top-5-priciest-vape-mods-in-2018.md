@@ -2,6 +2,7 @@
 title: Top 5 Priciest Vape Mods In 2018
 date: 2018-09-30 16:44:00
 category: on vape magazine 2018
+img: "/images/7.jpg"
 ---
 
 ![](/images/7.jpg)
